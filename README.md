@@ -7,3 +7,6 @@ I was thinking that the number of my the repos I've starred is getting too high 
 
 ### What's with the name?!
 basically, gystar = python + gist + star
+
+### Sample Output
+Here's the gist containing all my previously starred repos: [stars](https://gist.github.com/aminb/9219150)
