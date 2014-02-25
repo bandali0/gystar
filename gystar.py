@@ -25,7 +25,7 @@ def main():
     sys.stdout.flush()
     try:
         for repo in repos:
-            str_gist_body += repo.name + u" " + repo.url + "\n"
+            str_gist_body += repo.name + u" " + repo.html_url + "\n"
             sys.stdout.write(".")
             sys.stdout.flush()
         print
