@@ -65,7 +65,7 @@ def main():
                 sys.exit(1)
 
             if we_are_good:
-                print "All your the starred repos were unstarred!"
+                print "All repos were unstarred!"
 
 
 def get_yes_no_input(question, default):
